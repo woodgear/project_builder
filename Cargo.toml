@@ -1,0 +1,7 @@
+[package]
+name = "project_builder"
+version = "0.1.0"
+authors = ["wucong <1875486458@qq.com>"]
+
+[dependencies]
+tera = "0.10.10"
